@@ -1,0 +1,11 @@
+目前只实现查删改的功能，增加功能未完成
+
+userDataUtil.py定义分词函数，判断select/insert/update/delete等语句查询条件，where，set，like等
+userDataModify.py员工查询系统，自定义增删改查函数，并引用分词函数
+userData.txt 员工信息表
+
+实现功能：可以根据用户输入select/insert/update/delete等SQL语句进行增删改查功能
+		  输入select/insert/update/delete时会判断增删改查条件参数是否存在，存在则继续，不存在则返回输入列表
+		  如果输入语句不为select/insert/update/delete开头，提示输入SQL不被认同，请重新输入
+		  
+

@@ -1,0 +1,14 @@
+2017-02-18 20:07:14,347 - transaction - INFO - account:1234   action:withdraw    amount:50.0   interest:2.5
+2017-02-18 20:07:28,592 - transaction - INFO - account:1234   action:withdraw    amount:5.0   interest:0.25
+2017-02-18 20:11:05,286 - transaction - INFO - account:1234   action:repay    amount:100000.0   interest:0.0
+2017-02-18 20:11:45,288 - transaction - INFO - account:1234   action:repay    amount:5000.0   interest:-2500.0
+2017-02-18 20:12:01,574 - transaction - INFO - account:1234   action:repay    amount:50000.0   interest:-25000.0
+2017-02-23 18:39:44,721 - transaction - INFO - account:1234   action:withdraw    amount:5000.0   interest:250.0
+2017-02-23 23:07:59,871 - transaction - INFO - account:1234   action:withdraw    amount:22944.0   interest:1147.2
+2017-02-23 23:08:12,445 - transaction - INFO - account:1234   action:withdraw    amount:1.0   interest:0.05
+2017-02-23 23:13:22,543 - transaction - INFO - account:1234   action:transfer    amount:1000.0   interest:50.0
+2017-02-23 23:43:56,235 - transaction - INFO - account:1234   action:repay    amount:1.0   interest:-0.5
+2017-02-24 00:18:49,179 - transaction - INFO - account:1234   action:repay    amount:1000.0   interest:-500.0
+2017-02-24 00:38:53,411 - transaction - INFO - account:1234   action:repay    amount:100.0   interest:-50.0
+2017-02-24 00:41:45,610 - transaction - INFO - account:1234   action:repay    amount:0.0   interest:-0.0
+2017-02-24 11:12:25,773 - transaction - INFO - account:1234   action:repay    amount:1000.0   interest:-500.0
